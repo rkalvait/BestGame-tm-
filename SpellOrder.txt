@@ -1,0 +1,15 @@
+
+I. Select Damage
+	A. Enter damage value
+	B. Cast + hold
+		1. Imbue movement
+			a. Enter speed
+			b. Cast
+		2. Imbue OnDestroy
+			a. Enter Imbue CastSpell
+				i. Enter Type (Damage)
+				ii. Enter Damage vaue
+				iii. Cast
+			b. Cast
+	C. Release
+

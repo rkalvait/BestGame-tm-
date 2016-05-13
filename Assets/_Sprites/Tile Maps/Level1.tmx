@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="100" height="50" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="Singles" tilewidth="16" tileheight="16" tilecount="1">
+  <tile id="0">
+   <image width="16" height="16" source="FloorTile.png"/>
+  </tile>
+ </tileset>
+ <tileset firstgid="2" name="Walls" tilewidth="16" tileheight="16" tilecount="16">
+  <image source="WallBorderLarge.png" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="18" name="stuff" tilewidth="16" tileheight="16" tilecount="9">
+  <image source="SandBorder.png" width="48" height="48"/>
+ </tileset>
+ <tileset firstgid="27" name="morestuff" tilewidth="16" tileheight="16" tilecount="9">
+  <image source="OceanBorders.png" width="48" height="48"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="100" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt18tKA0EQhtEyGkVFTcQbXla+/ztahWmm0Qwh0OPGc+BfmOV8dDeuIuJ0Zme5de5kt+uZMc55TN+731XuIncZevyl+u77etzmNrlt99sq9FjaXI9af3aqRbXRY1lzPer71xuyjt8t6u/73EPoMdpcjzob7f1o56Rv8Zl7Dj1Gq3fibrfNnlWvm5h6tBZPoccS5t6OtmrRzlB9+5fcR+4t9xp6jHaox8/zUefpMb7PRntTGOdQj379fdXuKj3GOrZH3VfvMd1Veox1bA//fyxLDwAAAAAAAAAAAAAAAAAA/pMvT10GZA==
+  </data>
+ </layer>
+</map>

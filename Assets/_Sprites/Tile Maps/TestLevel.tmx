@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="100" height="100" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="Set1" tilewidth="16" tileheight="16" tilecount="4">
+  <tile id="0">
+   <image width="16" height="16" source="../grass_tile.png"/>
+  </tile>
+  <tile id="1">
+   <image width="16" height="16" source="../water_tile.png"/>
+  </tile>
+  <tile id="2">
+   <image width="16" height="16" source="../water_tile.png"/>
+  </tile>
+  <tile id="3">
+   <image width="16" height="16" source="../water_tile.png"/>
+  </tile>
+ </tileset>
+ <tileset firstgid="5" name="GrassBorder" tilewidth="16" tileheight="16" tilecount="9">
+  <image source="GrassBorder.png" width="48" height="48"/>
+ </tileset>
+ <tileset firstgid="14" name="OceanBorder" tilewidth="16" tileheight="16" tilecount="9">
+  <image source="OceanBorders.png" width="48" height="48"/>
+ </tileset>
+ <tileset firstgid="23" name="SandBorder" tilewidth="16" tileheight="16" tilecount="9">
+  <image source="SandBorder.png" width="48" height="48"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt2ItKwzAYBtCI93tRmTqnvv9bmtAFQm3XwtIi9Rz4YIyxZfmW/mUhAAAAAADUc1Ip1KGPvyXv53nMxYRcBn3MKe/nVcxDzFdPmpiPfW6CPuZU9rGLOevkNWYT9LGUQ310u9DH/Lp9PIXhLqb28bjEwleq73ycxmxDu//XnTgf8+rrI52R3Ec549Nc18e8hubHZ2g7+C6eSx0d20e6Dr7FvNdZ/uqM3V+VGeujKd73eeDz8rnb1fwSK1L28RLa3+5Q0nw/1Ec6U03xuG+ul+eO3/J+3sbcTch9OO56ledRM/bCf2rp/6/yPfW2zvJXZ+k+8jVxU2f5AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFX9AFUyCi0=
+  </data>
+ </layer>
+</map>

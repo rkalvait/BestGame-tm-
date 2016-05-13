@@ -1,0 +1,9 @@
+timer -> other effect
+shot teleport
+orbit
+remove effect
+cast spell
+imbue other
+
+reyn_time
+zane_daniel_wonsey
